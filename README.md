@@ -81,3 +81,5 @@ Pomodoro Timer/
 ```
 
 <!-- [2024-06-05] feat: initialize Pomodoro timer app structure and state machine -->
+
+<!-- [2024-06-05] feat: implement 25-minute focus and 5-minute break cycles -->
