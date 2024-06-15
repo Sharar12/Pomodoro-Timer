@@ -85,3 +85,5 @@ Pomodoro Timer/
 <!-- [2024-06-05] feat: implement 25-minute focus and 5-minute break cycles -->
 
 <!-- [2024-06-15] feat: add daily session counter and customizable interval lengths -->
+
+<!-- [2024-06-15] feat: implement browser audio chimes for session completion -->
